@@ -14,7 +14,8 @@
       "title": "Engineering",
       "description": "Skills for software specifications and engineering workflows.",
       "skills": [
-        "spec"
+        "spec",
+        "setup-adr"
       ]
     }
   ]
