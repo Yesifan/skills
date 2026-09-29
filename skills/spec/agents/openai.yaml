@@ -1,0 +1,6 @@
+interface:
+  display_name: "Spec"
+  short_description: "Create specs and maintain their index and project rules"
+
+policy:
+  allow_implicit_invocation: false

@@ -22,4 +22,5 @@ npx skills add Yesifan/skills
 ## Skill 索引
 
 - [deliberate](skills/deliberate/SKILL.md): 复杂任务的通用行为准则。 [Source](https://github.com/multica-ai/andrej-karpathy-skills)
-- [writing-doc](skills/writing-doc/SKILL.md): 面向 agent 的文档编写准则，关注内容取舍、信息组织与维护成本。 [Source](https://github.com/mattpocock/skills/blob/main/skills/productivity/writing-for-agents/SKILL.md)
+- [writing-doc](skills/writing-doc/SKILL.md): 面向 agent 的文档编写准则，关注内容取舍、信息组织与维护成本。
+- [spec](skills/spec/SKILL.md): 将讨论整理为 spec，维护状态、执行时间与索引，并提供 README 和 AGENTS.md 初始化规则。 [Source](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-spec/SKILL.md)

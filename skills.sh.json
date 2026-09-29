@@ -9,6 +9,13 @@
         "deliberate",
         "writing-doc"
       ]
+    },
+    {
+      "title": "Engineering",
+      "description": "Skills for software specifications and engineering workflows.",
+      "skills": [
+        "spec"
+      ]
     }
   ]
 }
