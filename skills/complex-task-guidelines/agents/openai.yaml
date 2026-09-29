@@ -1,0 +1,6 @@
+interface:
+  display_name: "Complex Task Guidelines"
+  short_description: "Focused, reliable execution for complex tasks"
+
+policy:
+  allow_implicit_invocation: false
