@@ -1,0 +1,14 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "General",
+      "description": "General guidelines for task execution and documentation.",
+      "skills": [
+        "deliberate",
+        "writing-doc"
+      ]
+    }
+  ]
+}

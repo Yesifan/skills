@@ -1,12 +1,10 @@
 ---
-name: complex-task-guidelines
+name: deliberate
 description: "Guidance for complex multi-step tasks, code edits, configuration changes, and requests for careful, reliable execution."
 disable-model-invocation: true
 ---
 
-# Complex Task Guidelines
-
-Three principles for reducing common agent mistakes across coding, research, configuration, writing, tool use, and communication. Adapted from Andrej Karpathy's observations on coding pitfalls.
+# Deliberate
 
 **Tradeoff:** These principles bias toward caution over speed. For trivial one-shot tasks, use judgment. When in doubt, follow the principles.
 
