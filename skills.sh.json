@@ -4,8 +4,9 @@
   "groupings": [
     {
       "title": "General",
-      "description": "General guidelines for task execution and documentation.",
+      "description": "General guidelines for task execution, documentation, and skill creation.",
       "skills": [
+        "skill-creator",
         "deliberate",
         "writing-doc"
       ]
