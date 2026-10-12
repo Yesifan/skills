@@ -26,3 +26,4 @@ npx skills add Yesifan/skills
 - [writing-doc](skills/writing-doc/SKILL.md): 面向 agent 的文档编写准则，关注内容取舍、信息组织与维护成本。
 - [spec](skills/spec/SKILL.md): 将讨论整理为 spec，维护状态、执行时间与索引，并提供 README 和 AGENTS.md 初始化规则。 [Source](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-spec/SKILL.md)
 - [setup-adr](skills/setup-adr/SKILL.md): 一次性将 ADR 与可选术语表的收录边界和维护规则写入项目 AGENTS.md。 [Source](https://github.com/mattpocock/skills/blob/main/docs/engineering/domain-modeling.md)
+- [pr](skills/pr/SKILL.md): 编写 PR 正文，用可视化、验证证据和合并风险说明变更。 [Source](https://github.com/mattpocock/skills/blob/main/skills/engineering/pr/SKILL.md)
